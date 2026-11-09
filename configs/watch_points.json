@@ -1,0 +1,7 @@
+[
+  { "name": "北京-景山公园", "latitude": 39.9234, "longitude": 116.3985, "elevation_m": 88, "timezone": "Asia/Shanghai" },
+  { "name": "上海-外滩", "latitude": 31.2397, "longitude": 121.4998, "elevation_m": 4, "timezone": "Asia/Shanghai" },
+  { "name": "广州-广州塔", "latitude": 23.1064, "longitude": 113.3245, "elevation_m": 10, "timezone": "Asia/Shanghai" },
+  { "name": "成都-龙泉山观景台", "latitude": 30.5621, "longitude": 104.3854, "elevation_m": 850, "timezone": "Asia/Shanghai" },
+  { "name": "杭州-西湖断桥", "latitude": 30.2592, "longitude": 120.1518, "elevation_m": 15, "timezone": "Asia/Shanghai" }
+]
